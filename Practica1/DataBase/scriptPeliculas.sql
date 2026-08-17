@@ -1,0 +1,23 @@
+INSERT INTO peliculas (titulo, director, anio_estreno, url_contenido, poster, estado)
+VALUES
+('Inception', 'Christopher Nolan', 2010, 'https://youtu.be/hstBN0Qkqhc?si=4QmkEAKneH9_WAsw', 'Fotos_Peliculas/inception.jpg', 'Disponible'),
+('Interstellar', 'Christopher Nolan', 2014, 'https://youtu.be/zSWdZVtXT7E?si=Lo3HTby1SW3-NLc3', 'Fotos_Peliculas/interstellar.jpg', 'Disponible'),
+('The Grand Budapest Hotel', 'Wes Anderson', 2014, 'https://youtu.be/1Fg5iWmQjwk?si=J0nsO_bQ9ixo5MJa', 'Fotos_Peliculas/grand_budapest.jpg', 'Proximamente'),
+('La La Land', 'Damien Chazelle', 2016, 'https://youtu.be/0pdqf4P9MB8?si=iiSgCB5QUEcROoe8', 'Fotos_Peliculas/la_la_land.jpg', 'Disponible'),
+('Whiplash', 'Damien Chazelle', 2014, 'https://youtu.be/Q7kZy3T6vRM?si=JkZnWYsJdjtEcd5N', 'Fotos_Peliculas/whiplash.jpg', 'Disponible'),
+('Parasite', 'Bong Joon-ho', 2019, 'https://youtu.be/5xH0HfJHsaY?si=vMBwVmmvZK0vrWD_', 'Fotos_Peliculas/parasite.jpg', 'Proximamente'),
+('1917', 'Sam Mendes', 2019, 'https://youtu.be/YqNYrYUiMfg?si=lWoqP6IxF_dRoJdi', 'Fotos_Peliculas/1917.jpg', 'Disponible'),
+('Dune', 'Denis Villeneuve', 2021, 'https://youtu.be/n9xhJrPXop4?si=HkvPemhT2JbjFN_V', 'Fotos_Peliculas/dune.jpg', 'Disponible'),
+('Blade Runner 2049', 'Denis Villeneuve', 2017, 'https://youtu.be/gCcx85zbxz4?si=19m2WVDhOBE8rrq1', 'Fotos_Peliculas/blade_runner_2049.jpg', 'Disponible'),
+('Arrival', 'Denis Villeneuve', 2016, 'https://youtu.be/tFMo3UJ4B4g?si=U_OLCdwPHz3L7Vlq', 'Fotos_Peliculas/arrival.jpg', 'Disponible'),
+('The Shape of Water', 'Guillermo del Toro', 2017, 'https://youtu.be/XFYWazblaUA?si=jVySyq-nK7qvAWVM', 'Fotos_Peliculas/shape_of_water.jpg', 'Proximamente'),
+('Roma', 'Alfonso Cuarón', 2018, 'https://youtu.be/6BS27ngZtxg?si=txqr0O3Wke3WxZJA', 'Fotos_Peliculas/roma.jpg', 'Disponible'),
+('Gravity', 'Alfonso Cuarón', 2013, 'https://youtu.be/OiTiKOy59o4?si=kF0Cy8T_tjFF-A5i', 'Fotos_Peliculas/gravity.jpg', 'Proximamente'),
+('The Revenant', 'Alejandro González Iñárritu', 2015, 'https://youtu.be/LoebZZ8K5N0?si=ofYHHiAIcFNhWyxG', 'Fotos_Peliculas/revenant.jpg', 'Disponible'),
+('Birdman', 'Alejandro González Iñárritu', 2014, 'https://youtu.be/uJfLoE6hanc?si=NLm9RRt9C-B-XnId', 'Fotos_Peliculas/birdman.jpg', 'Disponible'),
+('Mad Max: Fury Road', 'George Miller', 2015, 'https://youtu.be/hEJnMQG9ev8?si=bB4X1WbL3Q4glRph', 'Fotos_Peliculas/mad_max_fury.jpg', 'Proximamente'),
+('Repechaje', 'Sammy Morales', 2009, 'https://youtu.be/m5s2vIvkuUg?si=GDARHoujEQ4TyLPf', 'Fotos_Peliculas/NyN_repechaje.jpg', 'Disponible'),
+('El secreto de sus ojos', 'Juan José Campanella', 2009, 'https://youtu.be/hKa8U-8vsfU?si=Lcn1M36_iIkcaKSG', 'Fotos_Peliculas/secreto_ojos.jpg', 'Disponible'),
+('Everything Everywhere All at Once', 'Daniel Kwan y Daniel Scheinert', 2022, 'https://youtu.be/wxN1T1uxQ2g?si=2kLqMPH-UkI5koiu', 'Fotos_Peliculas/everything_everywhere.jpg', 'Disponible'),
+('Poor Things', 'Yorgos Lanthimos', 2023, 'https://youtu.be/_klfx5sGzFk?si=6F02iM5ZEPe2gpKH', 'Fotos_Peliculas/poor_things.jpg', 'Disponible'),
+('The Zone of Interest', 'Jonathan Glazer', 2023, 'https://youtu.be/r-vfg3KkV54?si=5PkkvsXyP9PUs-pE', 'Fotos_Peliculas/zone_interest.jpg', 'Proximamente');
